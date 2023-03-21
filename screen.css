@@ -1,1 +1,4 @@
-/* Add screen styles below */
+table {
+    border-width: 5px;
+    background-color: blanchedalmond;
+}
